@@ -7,7 +7,7 @@ layout: layouts/base.njk
 
 Where to begin?
 
-<form netlify action='' method="GET">
+<form netlify name="email-collection-form" action='' method="GET">
 <label>Email: </label>
 <input type="email" id="email"  name="email" />
 <input type="submit" value="Your email here"/>
