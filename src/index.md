@@ -1,8 +1,8 @@
 ---
-title: Tinkering around with Netlify
+title: cdersky
 layout: layouts/base.njk
 ---
-
+<!-- 
 # Exploring Netlify with CSS Tricks
 
 Where to begin?
@@ -19,4 +19,4 @@ Where to begin?
   <p>
     <button type="submit">Send</button>
   </p>
-</form>
+</form> -->
